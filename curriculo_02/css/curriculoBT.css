@@ -1,0 +1,61 @@
+#foto {
+    width: 100%;
+    margin-top: 40px;
+}
+
+nav {
+    background-color: #050036;
+}
+
+footer {
+    background-color: #050036;
+    color: #E9EFEC;
+}
+
+a.menuCharles {
+    color: #E9EFEC;
+}
+
+a.formacao {
+    color: #050036;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.margin {
+    padding: 20px;
+}
+
+.scrollMenu {
+    scroll-margin-top: 40px;
+}
+
+.bcgColor {
+    background-color: #E9EFEC;
+}
+
+.topBcgSobre {
+    background-color: #000000;
+    width: 8%;
+}
+
+.topBcgFormacao {
+    background-color: #000000;
+    width: 26%;
+}
+
+.topBcgExp {
+    background-color: #000000;
+    width: 28%;
+}
+
+.topBcgEnd {
+    background-color: #000000;
+    width: 36%;
+}
+
+.tblWidth {
+    width: 20%;
+}
